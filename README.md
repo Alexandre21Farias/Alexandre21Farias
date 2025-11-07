@@ -48,6 +48,8 @@
   </a>
 </div>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/687f7050d8402b4cbdf6c617?variant=dark&roadmaps=frontend%2Creact%2Cjavascript%2Cfull-stack)](https://roadmap.sh)
+
 ###
 
 <br clear="both">
@@ -57,3 +59,5 @@
 <img src="https://raw.githubusercontent.com/Alexandre21Farias/Alexandre21Farias/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
+
+
